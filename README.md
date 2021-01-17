@@ -92,7 +92,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 Clone the repo
 ```
-git clone https://github.com/julia-/room-booking-system
+git clone https://github.com/Adamkaram/booking-system
 ```
 
 Change to the `api` folder and install development and production dependencies.
