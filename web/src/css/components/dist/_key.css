@@ -1,0 +1,36 @@
+.key {
+  background: offWhite;
+  padding: 1.6rem 3.4rem 3rem 3.4rem;
+  width: 23rem;
+}
+.key__group {
+  display: inline-flex;
+  align-items: center;
+}
+.key__description {
+  display: inline-block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  padding-left: 2rem;
+}
+.key__square {
+  border: 0.1rem solid mediumGrey;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
+.key__square--bu1 {
+  background: businessUnit1;
+}
+.key__square--bu2 {
+  background: businessUnit2;
+}
+.key__square--bu3 {
+  background: businessUnit3;
+}
+.key__square--bu4 {
+  background: businessUnit4;
+}
+.key__square--bu5 {
+  background: businessUnit5;
+}
