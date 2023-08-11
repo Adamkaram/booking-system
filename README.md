@@ -1,32 +1,6 @@
 # Room Booking System
 A room booking system built with MongoDB, Express, Node.js and ReactJS.
 
-![Logo](docs/logo.png)
-
-[Presentation](http://slides.com/juliaryan/room-booking-system/fullscreen)
-## Table of Contents
-
-* [Getting started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [About project](#about-project)
-  * [Problem](#problem)
-  * [Solution](#solution)
-* [Planning](#planning)
-  * [Audience](#audience)
-  * [User stories](#user-stories)
-  * [Entity Relationship Diagram](#entity-relationship-diagram)
-    * [Version One](#version-one)
-    * [Version Two](#version-two)
-  * [Trello](#trello)
-* [Design](#design)
-  * [Wireframes](#wireframes)
-  * [Prototype](#prototype)
-* [Development](#development)
-  * [Requirements](#requirements)
-  * [Technologies](#technologies)
-* [Challenges and final thoughts](#challenges-and-final-thoughts)
-* [Team](#team)
 
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development purposes.
